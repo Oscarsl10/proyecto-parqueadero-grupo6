@@ -5,8 +5,8 @@
 - Oscar Guillermo Sierra Lozano.
 
 ## Repositorios
-- [Enlace Backend](https://github.com/Oscarsl10/backend-parqueadero.git)
-- [Enlace Frontend](https://github.com/Oscarsl10/frontend-parqueadero.git)
+- [Backend](https://github.com/Oscarsl10/backend-parqueadero.git)
+- [Frontend](https://github.com/Oscarsl10/frontend-parqueadero.git)
 
 ## Enlaces gestión
 - [Enlace Mockup figma](https://www.figma.com/design/WKF95MqvI9irVqgIakiHlK/EasyPark---6?node-id=0-1&t=HNUoZ187pCwtyXrk-1)
